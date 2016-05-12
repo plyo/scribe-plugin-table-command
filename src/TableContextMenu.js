@@ -2,7 +2,7 @@
  * Right click context menu to perform write operations on a table.
  */
 
-require('./scribe-plugin-table-command.styl');
+require('./scribe-plugin-table-command.css');
 
 var TableUtils = require('./TableUtils');
 
